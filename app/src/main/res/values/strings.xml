@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListaCompras</string>
+    <string name="soma">Soma = 0.00 : Urgente = 0.00</string>
 </resources>

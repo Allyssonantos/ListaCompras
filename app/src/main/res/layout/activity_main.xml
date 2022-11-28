@@ -31,7 +31,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
+        android:textColor="#FFFFFF"
+        android:text="@string/soma"
+        android:textSize="18sp"
+        android:background="@color/colorPrimary"
+
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
