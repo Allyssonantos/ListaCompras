@@ -34,6 +34,45 @@
         android:textColor="#FFFFFF"
         android:text="@string/soma"
         android:textSize="18sp"
-        android:background="@color/colorPrimary"
+        android:background="@color/black"></TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/produtos"/>
+        <EditText
+            android:id="@
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
